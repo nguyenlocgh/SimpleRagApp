@@ -1,0 +1,69 @@
+TEN SAN PHAM: SmartRouter X200  
+LOAI: Thiet bi dinh tuyen Wi-Fi 6  
+THUONG HIEU: NetProTech  
+MO TA:  
+SmartRouter X200 ho tro Wi-Fi 6 toc do 3.2 Gbps, toi uu bang thong bang AI, phu hop cho ho gia dinh va van phong nho.  
+THONG SO KY THUAT:  
+- Toc do: 3.2 Gbps (2.4GHz: 1.2 Gbps, 5GHz: 2.0 Gbps)  
+- Cong: 4x Gigabit Ethernet, 1x WAN, 1x USB 3.0  
+- CPU: Quad-core 1.8GHz, RAM 512MB  
+- Bao mat: WPA3, VPN Support, Firewall  
+
+TEN SAN PHAM: SwitchPro 24P  
+LOAI: Switch mang 24 cong PoE  
+THUONG HIEU: NetLink  
+MO TA:  
+SwitchPro 24P la thiet bi chuyen mach co ho tro PoE, cung cap nguon dien qua cong Ethernet cho cac thiet bi mang nhu camera IP, access point.  
+THONG SO KY THUAT:  
+- Cong: 24x Gigabit Ethernet, 4x SFP  
+- PoE: Cong suat toi da 370W  
+- Quan ly: Web GUI, CLI, SNMP  
+- Toc do chuyen mach: 128Gbps  
+
+TEN SAN PHAM: ProBook 450 G9  
+LOAI: Laptop doanh nghiep  
+THUONG HIEU: HP  
+MO TA:  
+ProBook 450 G9 trang bi CPU Intel Core i7 the he 12, man hinh 15.6 inch FHD, pin dung luong cao, phu hop cho cong viec van phong va di chuyen.  
+THONG SO KY THUAT:  
+- CPU: Intel Core i7-1255U (10 nhan, 12 luong)  
+- RAM: 16GB DDR4 3200MHz (nang cap toi da 32GB)  
+- O cung: SSD NVMe 512GB  
+- GPU: Intel Iris Xe Graphics  
+- He dieu hanh: Windows 11 Pro  
+
+TEN SAN PHAM: UltraCam 4K Pro  
+LOAI: Camera an ninh AI  
+THUONG HIEU: SafeGuard  
+MO TA:  
+UltraCam 4K Pro la camera an ninh cao cap, do phan giai 4K, ho tro AI nhan dien khuon mat va canh bao thoi gian thuc.  
+THONG SO KY THUAT:  
+- Do phan giai: 4K Ultra HD (3840x2160)  
+- Goc nhin: 130 do  
+- Ho tro AI: Nhan dien khuon mat, phat hien chuyen dong  
+- Chuan nen: H.265, giam 50 phan tram bang thong  
+- Luu tru: Ho tro the nho microSD 256GB, Cloud Storage  
+
+TEN SAN PHAM: DataVault NV500  
+LOAI: O cung di dong SSD NVMe  
+THUONG HIEU: SpeedTech  
+MO TA:  
+DataVault NV500 la o cung SSD di dong toc do cao, ket noi USB-C, bao mat bang ma hoa phan cung AES-256.  
+THONG SO KY THUAT:  
+- Dung luong: 500GB, 1TB, 2TB  
+- Giao tiep: USB-C 3.2 Gen 2 (10Gbps)  
+- Toc do doc/ghi: 1050MBps - 1000MBps  
+- Chong soc: Chuan quan doi MIL-STD-810G  
+- Bao mat: Ma hoa AES-256, ho tro bao ve bang van tay  
+
+TEN SAN PHAM: HyperMouse MX900  
+LOAI: Chuot khong day gaming  
+THUONG HIEU: GameX  
+MO TA:  
+HyperMouse MX900 la chuot gaming khong day hieu suat cao, trang bi cam bien quang 16000 DPI, ket noi 2.4GHz va Bluetooth.  
+THONG SO KY THUAT:  
+- Cam bien: Optical 16000 DPI  
+- Ket noi: 2.4GHz Wireless, Bluetooth 5.1  
+- Pin: Su dung len den 70 gio lien tuc  
+- Trong luong: 89g  
+- Den RGB: Co, tuy chinh qua phan mem GameX  
